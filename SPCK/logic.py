@@ -5,6 +5,7 @@ import sys
 user_infor = ["admin:admin:admin"]
 user_infor_list = []
 name_user = ""
+isSignIn = False
 
 class MainWindows(QMainWindow):
     def __init__(self):
@@ -21,7 +22,7 @@ class Login(QMainWindow):
         
         
         #nút order
-    
+
         
         
         self.pushButton_3.clicked.connect(lambda: self.stackedWidget.setCurrentIndex(1))
@@ -46,10 +47,11 @@ class Login(QMainWindow):
         print(user_infor)
         global name_user
         name_user = username
+        global isSignIn
+        isSignIn = True
         print(name_user)
         QMessageBox.information(self, "Thông báo", "Đăng kí thành công")
         login.close()
-        lobby = Lobby()
         lobby.show()
             # a = user_infor.split(":")
             # a[0] = name
@@ -57,27 +59,36 @@ class Login(QMainWindow):
             # a[2] = password
             # user_infor_list.append(name)
             # user_infor_list.append(email)
-            # user_infor_list.append(password)
-            
-            
+            # user_infor_list.append(password)                        
         
     def CheckLogin(self):
         email = self.lineEdit.text()
         password = self.lineEdit_2.text()
-        if email == user_infor_list[0] and password == user_infor_list[1]:
-            login.close()
-            lobby = Lobby()
-            lobby.show()
-        else:
-            msg_box.setText("Vui long kiem tra thong tin dang nhap")
-            msg_box.exec()
-            
+        for user in user_infor:
+            if email == user.split(":")[1] and password == user.split(":")[2]:
+                login.close()
+                global name_user
+                global isSignIn
+                isSignIn = True
+                name_user = user.split(":")[0]
+                lobby.show()
+            else:
+                msg_box.setText("Email hoặc password sai!")
+                msg_box.exec()                
+                
 class Lobby(QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi("food_app.ui",self)
-        self.label_38.setText(name_user)
-         
+        while isSignIn == True:           
+            self.label_38.setText(name_user)
+        self.pushButton_16.clicked.connect(self.LogOut)
+        
+    def LogOut(self):
+        lobby.close()
+        isSignIn = False
+        login.show()
+        
         # self.pushButton_2.click.connect(self.Order)
         
     # def Order(self):
@@ -200,6 +211,6 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     msg_box = QMessageBox()
     login = Login()
-    
+    lobby = Lobby()
     login.show()
     app.exec()

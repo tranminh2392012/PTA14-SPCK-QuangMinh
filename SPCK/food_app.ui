@@ -54,7 +54,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>../../Downloads/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
+       <pixmap>../../folder chung/PTB15/Downloads/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -182,7 +182,7 @@ QPushButton:pressed
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>../../Downloads/74-746008_icon-for-user-user-icon-png-white-transparent-removebg-preview (1).png</pixmap>
+       <pixmap>../../folder chung/PTB15/Downloads/74-746008_icon-for-user-user-icon-png-white-transparent-removebg-preview (1).png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -418,7 +418,7 @@ color: rgb(255, 255, 255);</string>
        <rect>
         <x>210</x>
         <y>190</y>
-        <width>21</width>
+        <width>71</width>
         <height>221</height>
        </rect>
       </property>
@@ -597,7 +597,7 @@ QPushButton:pressed
        <rect>
         <x>170</x>
         <y>460</y>
-        <width>21</width>
+        <width>111</width>
         <height>31</height>
        </rect>
       </property>
@@ -607,6 +607,29 @@ color: rgb(255, 255, 255)</string>
       </property>
       <property name="text">
        <string>0</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_16">
+      <property name="geometry">
+       <rect>
+        <x>220</x>
+        <y>57</y>
+        <width>41</width>
+        <height>28</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>../../../../Downloads/login-logout-white-icon-11642597802btccm3uuci-removebg-preview.png</normaloff>../../../../Downloads/login-logout-white-icon-11642597802btccm3uuci-removebg-preview.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>40</width>
+        <height>40</height>
+       </size>
       </property>
      </widget>
     </widget>
@@ -682,7 +705,7 @@ border-radius: 30;</string>
             <string/>
            </property>
            <property name="pixmap">
-            <pixmap>../../Downloads/471-4710505_dessert-vector-removebg-preview.png</pixmap>
+            <pixmap>../../folder chung/PTB15/Downloads/471-4710505_dessert-vector-removebg-preview.png</pixmap>
            </property>
            <property name="scaledContents">
             <bool>true</bool>
@@ -778,7 +801,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -891,7 +914,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -980,7 +1003,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1073,7 +1096,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1162,7 +1185,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1251,7 +1274,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1344,7 +1367,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1433,7 +1456,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1522,7 +1545,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1677,7 +1700,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1770,7 +1793,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1863,7 +1886,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1932,7 +1955,7 @@ QPushButton:hover
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>diary app/Modern-Fast-food-Restaurant-Interior-Design-and-Renovation.jpg</pixmap>
+         <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/Modern-Fast-food-Restaurant-Interior-Design-and-Renovation.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -1972,7 +1995,7 @@ color: rgb(255, 93, 0);</string>
         </property>
         <property name="icon">
          <iconset>
-          <normaloff>../../Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
+          <normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
         </property>
         <property name="iconSize">
          <size>
@@ -1998,7 +2021,7 @@ color: rgb(255, 93, 0);</string>
         </property>
         <property name="icon">
          <iconset>
-          <normaloff>../../Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</normaloff>../../Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</iconset>
+          <normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</iconset>
         </property>
         <property name="iconSize">
          <size>
@@ -2063,7 +2086,7 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="icon">
             <iconset>
-             <normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
            </property>
            <property name="iconSize">
             <size>
@@ -2106,7 +2129,7 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="icon">
             <iconset>
-             <normaloff>../../Downloads/OIP__1_-removebg-preview.png</normaloff>../../Downloads/OIP__1_-removebg-preview.png</iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</iconset>
            </property>
            <property name="iconSize">
             <size>
@@ -2149,7 +2172,7 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="icon">
             <iconset>
-             <normaloff>../../Downloads/OIP__2_-removebg-preview.png</normaloff>../../Downloads/OIP__2_-removebg-preview.png</iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</iconset>
            </property>
            <property name="iconSize">
             <size>
@@ -2192,7 +2215,7 @@ color: rgb(255, 255, 255);</string>
            </property>
            <property name="icon">
             <iconset>
-             <normaloff>../../Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</normaloff>../../Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</iconset>
            </property>
            <property name="iconSize">
             <size>
@@ -2406,7 +2429,7 @@ border-radius: 5;</string>
          <rect>
           <x>240</x>
           <y>410</y>
-          <width>21</width>
+          <width>471</width>
           <height>221</height>
          </rect>
         </property>
@@ -2729,7 +2752,7 @@ color: rgb(255, 255, 255);</string>
         </property>
         <property name="icon">
          <iconset>
-          <normaloff>../../Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
+          <normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
         </property>
         <property name="iconSize">
          <size>
@@ -2787,7 +2810,7 @@ color: rgb(255, 255, 255);</string>
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>diary app/burgers_mobile_my18jv.jpg</pixmap>
+         <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
