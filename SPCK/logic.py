@@ -4,6 +4,7 @@ import sys
 
 user_infor = ["admin:admin:admin"]
 user_infor_list = []
+name_user = ""
 
 class MainWindows(QMainWindow):
     def __init__(self):
@@ -14,6 +15,7 @@ class Login(QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi("login.ui",self)
+        
         
         #đổi tên username
         
@@ -42,8 +44,12 @@ class Login(QMainWindow):
             
         user_infor.append(f"{username}:{email}:{password}")
         print(user_infor)
+        global name_user
+        name_user = username
+        print(name_user)
         QMessageBox.information(self, "Thông báo", "Đăng kí thành công")
         login.close()
+        lobby = Lobby()
         lobby.show()
             # a = user_infor.split(":")
             # a[0] = name
@@ -60,6 +66,7 @@ class Login(QMainWindow):
         password = self.lineEdit_2.text()
         if email == user_infor_list[0] and password == user_infor_list[1]:
             login.close()
+            lobby = Lobby()
             lobby.show()
         else:
             msg_box.setText("Vui long kiem tra thong tin dang nhap")
@@ -69,7 +76,7 @@ class Lobby(QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi("food_app.ui",self)
-        print(user_infor[0].split(":")[0])
+        self.label_38.setText(name_user)
          
         # self.pushButton_2.click.connect(self.Order)
         
@@ -193,6 +200,6 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     msg_box = QMessageBox()
     login = Login()
-    lobby = Lobby()
+    
     login.show()
     app.exec()
