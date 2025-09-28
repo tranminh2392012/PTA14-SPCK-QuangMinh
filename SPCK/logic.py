@@ -35,58 +35,64 @@ class Login(QMainWindow):
         username = self.lineEdit_4.text()
         email = self.lineEdit_3.text()
         password = self.lineEdit_5.text()
+        
         if not email or not password:
             QMessageBox.warning(self, "Error", "Vui lòng nhập đầy đủ thông tin")
             return 
+            
         for user in user_infor:
             if email == user.split(":")[1]:
                 QMessageBox.warning(self, "Error", "Email đã được sử dụng")
                 return
-            
+                
         user_infor.append(f"{username}:{email}:{password}")
-        print(user_infor)
-        global name_user
+        
+        global name_user, isSignIn
         name_user = username
-        global isSignIn
         isSignIn = True
-        print(name_user)
+        
         QMessageBox.information(self, "Thông báo", "Đăng kí thành công")
         login.close()
-        lobby.show()
-            # a = user_infor.split(":")
-            # a[0] = name
-            # a[1] = email
-            # a[2] = password
-            # user_infor_list.append(name)
-            # user_infor_list.append(email)
-            # user_infor_list.append(password)                        
+        lobby.update_username()  # ← Cập nhật username sau khi đăng ký
+        lobby.show()                       
         
     def CheckLogin(self):
         email = self.lineEdit.text()
         password = self.lineEdit_2.text()
+        
+        if not email or not password:
+            QMessageBox.warning(self, "Error", "Vui lòng nhập đầy đủ thông tin")
+            return
+            
+        found = False
         for user in user_infor:
             if email == user.split(":")[1] and password == user.split(":")[2]:
                 login.close()
-                global name_user
-                global isSignIn
+                global name_user, isSignIn
                 isSignIn = True
                 name_user = user.split(":")[0]
+                lobby.update_username()
                 lobby.show()
-            else:
-                msg_box.setText("Email hoặc password sai!")
-                msg_box.exec()                
+                found = True
+                break
+        
+        if not found:
+            msg_box.setText("Email hoặc password sai!")
+            msg_box.exec()         
                 
 class Lobby(QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi("food_app.ui",self)
-        while isSignIn == True:           
-            self.label_38.setText(name_user)
         self.pushButton_16.clicked.connect(self.LogOut)
+    def update_username(self):
+        self.label_38.setText(name_user)
         
     def LogOut(self):
+        global name_user, isSignIn
         lobby.close()
         isSignIn = False
+        name_user = ""  # Reset username
         login.show()
         
         # self.pushButton_2.click.connect(self.Order)
