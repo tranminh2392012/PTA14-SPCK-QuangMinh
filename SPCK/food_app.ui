@@ -54,7 +54,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>../../folder chung/PTB15/Downloads/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
+       <pixmap>../../diary app/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -271,7 +271,7 @@ color: rgb(255, 255, 255)</string>
         <x>20</x>
         <y>190</y>
         <width>121</width>
-        <height>221</height>
+        <height>171</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="verticalLayout_17">
@@ -377,40 +377,6 @@ color: rgb(255, 255, 255);</string>
          </property>
         </widget>
        </item>
-       <item>
-        <widget class="QLabel" name="label_44">
-         <property name="styleSheet">
-          <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-         </property>
-         <property name="text">
-          <string>Onion ring:</string>
-         </property>
-         <property name="alignment">
-          <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_48">
-         <property name="styleSheet">
-          <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-         </property>
-         <property name="text">
-          <string>Tacos:</string>
-         </property>
-         <property name="alignment">
-          <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
       </layout>
      </widget>
      <widget class="QWidget" name="verticalLayoutWidget_19">
@@ -419,7 +385,7 @@ color: rgb(255, 255, 255);</string>
         <x>210</x>
         <y>190</y>
         <width>71</width>
-        <height>221</height>
+        <height>171</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="verticalLayout_19">
@@ -525,40 +491,6 @@ color: rgb(255, 255, 255);</string>
          </property>
         </widget>
        </item>
-       <item>
-        <widget class="QLabel" name="label_101">
-         <property name="styleSheet">
-          <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-         </property>
-         <property name="text">
-          <string>0</string>
-         </property>
-         <property name="alignment">
-          <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_102">
-         <property name="styleSheet">
-          <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-         </property>
-         <property name="text">
-          <string>0</string>
-         </property>
-         <property name="alignment">
-          <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
       </layout>
      </widget>
      <widget class="QPushButton" name="pushButton_2">
@@ -609,29 +541,6 @@ color: rgb(255, 255, 255)</string>
        <string>0</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_16">
-      <property name="geometry">
-       <rect>
-        <x>220</x>
-        <y>57</y>
-        <width>41</width>
-        <height>28</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string/>
-      </property>
-      <property name="icon">
-       <iconset>
-        <normaloff>../../../../Downloads/login-logout-white-icon-11642597802btccm3uuci-removebg-preview.png</normaloff>../../../../Downloads/login-logout-white-icon-11642597802btccm3uuci-removebg-preview.png</iconset>
-      </property>
-      <property name="iconSize">
-       <size>
-        <width>40</width>
-        <height>40</height>
-       </size>
-      </property>
-     </widget>
     </widget>
     <widget class="QStackedWidget" name="stackedWidget">
      <property name="geometry">
@@ -643,7 +552,7 @@ color: rgb(255, 255, 255)</string>
       </rect>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>5</number>
      </property>
      <widget class="QWidget" name="page_3">
       <widget class="QScrollArea" name="scrollArea">
@@ -705,7 +614,7 @@ border-radius: 30;</string>
             <string/>
            </property>
            <property name="pixmap">
-            <pixmap>../../folder chung/PTB15/Downloads/471-4710505_dessert-vector-removebg-preview.png</pixmap>
+            <pixmap>../../diary app/471-4710505_dessert-vector-removebg-preview.png</pixmap>
            </property>
            <property name="scaledContents">
             <bool>true</bool>
@@ -776,7 +685,7 @@ QPushButton:hover
             <x>10</x>
             <y>210</y>
             <width>711</width>
-            <height>711</height>
+            <height>481</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -801,7 +710,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/burgers_mobile_my18jv.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -869,30 +778,6 @@ QPushButton:hover
                  <string>BUY</string>
                 </property>
                </widget>
-               <widget class="QPushButton" name="pushButton_27">
-                <property name="geometry">
-                 <rect>
-                  <x>0</x>
-                  <y>200</y>
-                  <width>111</width>
-                  <height>28</height>
-                 </rect>
-                </property>
-                <property name="styleSheet">
-                 <string notr="true">QPushButton
-{
-	color: rgb(244, 244, 244);
-	font: 450 8pt &quot;AutoText&quot;;
-}
-QPushButton:hover
-{
-	color: rgb(126, 126, 126);
-}</string>
-                </property>
-                <property name="text">
-                 <string>learn more -&gt;</string>
-                </property>
-               </widget>
               </widget>
              </item>
              <item>
@@ -914,7 +799,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/Grilled-Hot-Dogs-How-to-Grill-Hot-Dogs-38.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1003,7 +888,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/OIP.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1096,7 +981,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/Fried-Chicken-Pieces-1.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1107,7 +992,7 @@ border-radius: 10;</string>
                  <rect>
                   <x>10</x>
                   <y>170</y>
-                  <width>233</width>
+                  <width>211</width>
                   <height>23</height>
                  </rect>
                 </property>
@@ -1185,7 +1070,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/23596-fried-mozzarella-cheese-sticks-DDMFS-4x3-842a0eaebf6b435a8d3a8b04325e13eb.jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1274,7 +1159,7 @@ border-radius: 10;</string>
                  <string/>
                 </property>
                 <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
+                 <pixmap>../../diary app/OIP (3).jpg</pixmap>
                 </property>
                 <property name="scaledContents">
                  <bool>true</bool>
@@ -1315,277 +1200,6 @@ color: rgb(245, 245, 245);</string>
                 </layout>
                </widget>
                <widget class="QPushButton" name="pushButton_33">
-                <property name="geometry">
-                 <rect>
-                  <x>130</x>
-                  <y>202</y>
-                  <width>91</width>
-                  <height>21</height>
-                 </rect>
-                </property>
-                <property name="styleSheet">
-                 <string notr="true">QPushButton
-{
-	border-radius: 10;
-	font: 550 9pt &quot;AutoText&quot;;
-	background-color: rgb(255, 93, 0);
-	color: rgb(240, 240, 240);
-}
-QPushButton:hover
-{
-	background-color: rgb(51, 51, 51);
-	color: rgb(161, 161, 161);
-}
-</string>
-                </property>
-                <property name="text">
-                 <string>BUY</string>
-                </property>
-               </widget>
-              </widget>
-             </item>
-            </layout>
-           </item>
-           <item>
-            <layout class="QHBoxLayout" name="horizontalLayout_3">
-             <item>
-              <widget class="QWidget" name="widget_21" native="true">
-               <property name="styleSheet">
-                <string notr="true">background-color: rgb(35, 35, 35);
-border-radius: 10;</string>
-               </property>
-               <widget class="QLabel" name="label_11">
-                <property name="geometry">
-                 <rect>
-                  <x>-20</x>
-                  <y>0</y>
-                  <width>251</width>
-                  <height>161</height>
-                 </rect>
-                </property>
-                <property name="text">
-                 <string/>
-                </property>
-                <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
-                </property>
-                <property name="scaledContents">
-                 <bool>true</bool>
-                </property>
-               </widget>
-               <widget class="QWidget" name="horizontalLayoutWidget_3">
-                <property name="geometry">
-                 <rect>
-                  <x>10</x>
-                  <y>170</y>
-                  <width>219</width>
-                  <height>23</height>
-                 </rect>
-                </property>
-                <layout class="QHBoxLayout" name="horizontalLayout_5">
-                 <item>
-                  <widget class="QLabel" name="label_12">
-                   <property name="styleSheet">
-                    <string notr="true">font: 550 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255)</string>
-                   </property>
-                   <property name="text">
-                    <string>ONION RINGS</string>
-                   </property>
-                  </widget>
-                 </item>
-                 <item>
-                  <widget class="QLabel" name="label_13">
-                   <property name="styleSheet">
-                    <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(245, 245, 245);</string>
-                   </property>
-                   <property name="text">
-                    <string>              5$</string>
-                   </property>
-                  </widget>
-                 </item>
-                </layout>
-               </widget>
-               <widget class="QPushButton" name="pushButton_8">
-                <property name="geometry">
-                 <rect>
-                  <x>130</x>
-                  <y>202</y>
-                  <width>91</width>
-                  <height>21</height>
-                 </rect>
-                </property>
-                <property name="styleSheet">
-                 <string notr="true">QPushButton
-{
-	border-radius: 10;
-	font: 550 9pt &quot;AutoText&quot;;
-	background-color: rgb(255, 93, 0);
-	color: rgb(240, 240, 240);
-}
-QPushButton:hover
-{
-	background-color: rgb(51, 51, 51);
-	color: rgb(161, 161, 161);
-}
-</string>
-                </property>
-                <property name="text">
-                 <string>BUY</string>
-                </property>
-               </widget>
-              </widget>
-             </item>
-             <item>
-              <widget class="QWidget" name="widget_20" native="true">
-               <property name="styleSheet">
-                <string notr="true">background-color: rgb(35, 35, 35);
-border-radius: 10;</string>
-               </property>
-               <widget class="QLabel" name="label_8">
-                <property name="geometry">
-                 <rect>
-                  <x>-20</x>
-                  <y>0</y>
-                  <width>251</width>
-                  <height>161</height>
-                 </rect>
-                </property>
-                <property name="text">
-                 <string/>
-                </property>
-                <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
-                </property>
-                <property name="scaledContents">
-                 <bool>true</bool>
-                </property>
-               </widget>
-               <widget class="QWidget" name="horizontalLayoutWidget_2">
-                <property name="geometry">
-                 <rect>
-                  <x>10</x>
-                  <y>170</y>
-                  <width>214</width>
-                  <height>23</height>
-                 </rect>
-                </property>
-                <layout class="QHBoxLayout" name="horizontalLayout_4">
-                 <item>
-                  <widget class="QLabel" name="label_9">
-                   <property name="styleSheet">
-                    <string notr="true">font: 550 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255)</string>
-                   </property>
-                   <property name="text">
-                    <string>TACOS</string>
-                   </property>
-                  </widget>
-                 </item>
-                 <item>
-                  <widget class="QLabel" name="label_10">
-                   <property name="styleSheet">
-                    <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(245, 245, 245);</string>
-                   </property>
-                   <property name="text">
-                    <string>              5$</string>
-                   </property>
-                  </widget>
-                 </item>
-                </layout>
-               </widget>
-               <widget class="QPushButton" name="pushButton_7">
-                <property name="geometry">
-                 <rect>
-                  <x>130</x>
-                  <y>202</y>
-                  <width>91</width>
-                  <height>21</height>
-                 </rect>
-                </property>
-                <property name="styleSheet">
-                 <string notr="true">QPushButton
-{
-	border-radius: 10;
-	font: 550 9pt &quot;AutoText&quot;;
-	background-color: rgb(255, 93, 0);
-	color: rgb(240, 240, 240);
-}
-QPushButton:hover
-{
-	background-color: rgb(51, 51, 51);
-	color: rgb(161, 161, 161);
-}
-</string>
-                </property>
-                <property name="text">
-                 <string>BUY</string>
-                </property>
-               </widget>
-              </widget>
-             </item>
-             <item>
-              <widget class="QWidget" name="widget_19" native="true">
-               <property name="styleSheet">
-                <string notr="true">background-color: rgb(35, 35, 35);
-border-radius: 10;</string>
-               </property>
-               <widget class="QLabel" name="label_5">
-                <property name="geometry">
-                 <rect>
-                  <x>-20</x>
-                  <y>0</y>
-                  <width>251</width>
-                  <height>161</height>
-                 </rect>
-                </property>
-                <property name="text">
-                 <string/>
-                </property>
-                <property name="pixmap">
-                 <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/burgers_mobile_my18jv.jpg</pixmap>
-                </property>
-                <property name="scaledContents">
-                 <bool>true</bool>
-                </property>
-               </widget>
-               <widget class="QWidget" name="horizontalLayoutWidget_5">
-                <property name="geometry">
-                 <rect>
-                  <x>10</x>
-                  <y>170</y>
-                  <width>214</width>
-                  <height>23</height>
-                 </rect>
-                </property>
-                <layout class="QHBoxLayout" name="horizontalLayout_7">
-                 <item>
-                  <widget class="QLabel" name="label_6">
-                   <property name="styleSheet">
-                    <string notr="true">font: 550 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255)</string>
-                   </property>
-                   <property name="text">
-                    <string>HAMBURGER</string>
-                   </property>
-                  </widget>
-                 </item>
-                 <item>
-                  <widget class="QLabel" name="label_7">
-                   <property name="styleSheet">
-                    <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(245, 245, 245);</string>
-                   </property>
-                   <property name="text">
-                    <string>              5$</string>
-                   </property>
-                  </widget>
-                 </item>
-                </layout>
-               </widget>
-               <widget class="QPushButton" name="pushButton_6">
                 <property name="geometry">
                  <rect>
                   <x>130</x>
@@ -1700,7 +1314,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1793,7 +1407,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1886,7 +1500,7 @@ color: rgb(244, 244, 244);</string>
             </property>
             <property name="icon">
              <iconset>
-              <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+              <normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../diary app/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -1955,7 +1569,7 @@ QPushButton:hover
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>../../folder chung/PTB15/Advance/SPCK/diary app/Modern-Fast-food-Restaurant-Interior-Design-and-Renovation.jpg</pixmap>
+         <pixmap>../../diary app/61a2ea9d5ff09c21403adc61_lotteria-binh-tan-vanh-dai-trong-311-vanh-dai-trong-binh-tan.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -1995,7 +1609,7 @@ color: rgb(255, 93, 0);</string>
         </property>
         <property name="icon">
          <iconset>
-          <normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
+          <normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
         </property>
         <property name="iconSize">
          <size>
@@ -2257,6 +1871,662 @@ color: rgb(255, 255, 255);</string>
        </widget>
       </widget>
      </widget>
+     <widget class="QWidget" name="page_7">
+      <widget class="QWidget" name="widget_34" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>731</width>
+         <height>981</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(24, 24, 24);</string>
+       </property>
+       <widget class="QLabel" name="label_78">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>40</y>
+          <width>731</width>
+          <height>441</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap>../../diary app/Lotteriabanhtruongthitruongthucannhanhvietrasao1.jpg</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_79">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>490</y>
+          <width>361</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 550 18pt &quot;AutoText&quot;;
+color: rgb(255, 93, 0);</string>
+        </property>
+        <property name="text">
+         <string>Jollibee Bình Long</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_37">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>43</width>
+          <height>39</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 0, 0);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>30</width>
+          <height>30</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_38">
+        <property name="geometry">
+         <rect>
+          <x>5</x>
+          <y>540</y>
+          <width>43</width>
+          <height>39</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 0, 0);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>50</width>
+          <height>50</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_80">
+        <property name="geometry">
+         <rect>
+          <x>60</x>
+          <y>540</y>
+          <width>639</width>
+          <height>109</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+        </property>
+        <property name="text">
+         <string>Feedback: Jollibee là chuỗi cửa hàng thức ăn nhanh nổi tiếng đến từ Mỹ, chuyên phục vụ các món như gà rán, burger, cơm gà và mỳ Ý với hương vị phù hợp khẩu vị người Việt. Không gian quán hiện đại, trẻ trung, phù hợp với nhiều đối tượng khách hàng. Dịch vụ nhanh chóng, nhân viên thân thiện và thường xuyên có các chương trình khuyến mãi hấp dẫn.</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QWidget" name="widget_10" native="true">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>660</y>
+          <width>731</width>
+          <height>3</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgb(56, 56, 56)</string>
+        </property>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_3">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>730</y>
+          <width>521</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_5">
+         <item>
+          <widget class="QPushButton" name="pushButton_39">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_81">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>139 Đ. Bình Long, khu phố 27, Bình Tân, Hồ Chí Minh, Việt Nam</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_13">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>810</y>
+          <width>171</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_14">
+         <item>
+          <widget class="QPushButton" name="pushButton_40">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_82">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Food app menu</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_14">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>850</y>
+          <width>191</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_15">
+         <item>
+          <widget class="QPushButton" name="pushButton_41">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_83">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>100000 - 200000đ</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_16">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>770</y>
+          <width>161</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_16">
+         <item>
+          <widget class="QPushButton" name="pushButton_42">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_84">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>8 a.m - 10 p.m</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QLabel" name="label_85">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>680</y>
+          <width>151</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 550 14pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+        </property>
+        <property name="text">
+         <string>Information:</string>
+        </property>
+       </widget>
+      </widget>
+     </widget>
+     <widget class="QWidget" name="page_6">
+      <widget class="QWidget" name="widget_33" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>731</width>
+         <height>981</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(24, 24, 24);</string>
+       </property>
+       <widget class="QLabel" name="label_61">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>40</y>
+          <width>731</width>
+          <height>441</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap>../../diary app/Modern-Fast-food-Restaurant-Interior-Design-and-Renovation.jpg</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_71">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>490</y>
+          <width>361</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 550 18pt &quot;AutoText&quot;;
+color: rgb(255, 93, 0);</string>
+        </property>
+        <property name="text">
+         <string>KFC Lê Văn Quới</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_28">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>43</width>
+          <height>39</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 0, 0);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</normaloff>../../diary app/arrow-icon-direction-icon-left-icon-pointing-icon-white-black-text-logo-line-png-clipart-removebg-preview.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>30</width>
+          <height>30</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_29">
+        <property name="geometry">
+         <rect>
+          <x>5</x>
+          <y>540</y>
+          <width>43</width>
+          <height>39</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 0, 0);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/83-839792_icon-feedback-feedback-icon-white-png-removebg-preview.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>50</width>
+          <height>50</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_72">
+        <property name="geometry">
+         <rect>
+          <x>60</x>
+          <y>540</y>
+          <width>639</width>
+          <height>109</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+        </property>
+        <property name="text">
+         <string>Feedback: KFC là chuỗi cửa hàng thức ăn nhanh nổi tiếng đến từ Mỹ, chuyên phục vụ các món như gà rán, burger, cơm gà và mỳ Ý với hương vị phù hợp khẩu vị người Việt. Không gian quán hiện đại, trẻ trung, phù hợp với nhiều đối tượng khách hàng. Dịch vụ nhanh chóng, nhân viên thân thiện và thường xuyên có các chương trình khuyến mãi hấp dẫn.</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QWidget" name="widget_9" native="true">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>660</y>
+          <width>731</width>
+          <height>3</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgb(56, 56, 56)</string>
+        </property>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_2">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>730</y>
+          <width>582</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_3">
+         <item>
+          <widget class="QPushButton" name="pushButton_17">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/white-location-icon-png-location-logo-png-white-115628566617fyaf2amrv-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_73">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>330 Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_11">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>810</y>
+          <width>171</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_7">
+         <item>
+          <widget class="QPushButton" name="pushButton_30">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__1_-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_74">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Food app menu</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_12">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>850</y>
+          <width>171</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_13">
+         <item>
+          <widget class="QPushButton" name="pushButton_35">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/OIP__2_-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_75">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>1 -100.000 VNĐ</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="horizontalLayoutWidget_5">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>770</y>
+          <width>161</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_4">
+         <item>
+          <widget class="QPushButton" name="pushButton_36">
+           <property name="styleSheet">
+            <string notr="true">color: rgb(255, 0, 0);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</normaloff>../../folder chung/PTB15/Downloads/10-101445_clock-icon-clock-icon-white-png-issue-icon-removebg-preview.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>30</width>
+             <height>30</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_76">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>8 a.m - 10 p.m</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QLabel" name="label_77">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>680</y>
+          <width>151</width>
+          <height>41</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font: 550 14pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+        </property>
+        <property name="text">
+         <string>Information:</string>
+        </property>
+       </widget>
+      </widget>
+     </widget>
      <widget class="QWidget" name="page_5">
       <widget class="QWidget" name="widget_30" native="true">
        <property name="geometry">
@@ -2364,76 +2634,164 @@ color: rgb(212, 212, 212);</string>
          <string>Order:</string>
         </property>
        </widget>
-       <widget class="QLineEdit" name="lineEdit_6">
+       <widget class="QWidget" name="verticalLayoutWidget_18">
         <property name="geometry">
          <rect>
           <x>20</x>
-          <y>60</y>
-          <width>401</width>
-          <height>51</height>
+          <y>410</y>
+          <width>121</width>
+          <height>171</height>
          </rect>
         </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(255, 255, 255);
-border-radius: 5;</string>
-        </property>
-        <property name="text">
-         <string/>
-        </property>
-        <property name="placeholderText">
-         <string>Your name</string>
-        </property>
-       </widget>
-       <widget class="QLineEdit" name="lineEdit_7">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>160</y>
-          <width>401</width>
-          <height>51</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(255, 255, 255);
-border-radius: 5;</string>
-        </property>
-        <property name="text">
-         <string/>
-        </property>
-        <property name="placeholderText">
-         <string>username@gmail.com</string>
-        </property>
-       </widget>
-       <widget class="QLineEdit" name="lineEdit_8">
-        <property name="geometry">
-         <rect>
-          <x>20</x>
-          <y>260</y>
-          <width>401</width>
-          <height>51</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">background-color: rgb(255, 255, 255);
-border-radius: 5;</string>
-        </property>
-        <property name="text">
-         <string/>
-        </property>
-        <property name="placeholderText">
-         <string>Your own password</string>
-        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_18">
+         <item>
+          <widget class="QLabel" name="label_44">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Burger:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_48">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Hot dog:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_54">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>French Fries:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_55">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Fried chicken:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_56">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Cheese stick:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_57">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>Chicken nugget:</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
        </widget>
        <widget class="QWidget" name="verticalLayoutWidget_20">
         <property name="geometry">
          <rect>
-          <x>240</x>
+          <x>180</x>
           <y>410</y>
-          <width>471</width>
-          <height>221</height>
+          <width>531</width>
+          <height>171</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_20">
+         <item>
+          <widget class="QLabel" name="label_101">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>0</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_102">
+           <property name="styleSheet">
+            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
+color: rgb(255, 255, 255);</string>
+           </property>
+           <property name="text">
+            <string>0</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
          <item>
           <widget class="QLabel" name="label_104">
            <property name="styleSheet">
@@ -2502,223 +2860,89 @@ color: rgb(255, 255, 255);</string>
            </property>
           </widget>
          </item>
-         <item>
-          <widget class="QLabel" name="label_108">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>0</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_109">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>0</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_110">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>0</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_111">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>0</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
         </layout>
        </widget>
-       <widget class="QWidget" name="verticalLayoutWidget_21">
+       <widget class="QLabel" name="label_58">
         <property name="geometry">
          <rect>
           <x>20</x>
-          <y>410</y>
-          <width>81</width>
-          <height>221</height>
+          <y>60</y>
+          <width>401</width>
+          <height>51</height>
          </rect>
         </property>
-        <layout class="QVBoxLayout" name="verticalLayout_21">
-         <item>
-          <widget class="QLabel" name="label_112">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_113">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_114">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_115">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_116">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_117">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_118">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="label_119">
-           <property name="styleSheet">
-            <string notr="true">font: 450 10pt &quot;AutoText&quot;;
-color: rgb(255, 255, 255);</string>
-           </property>
-           <property name="text">
-            <string>Burger:</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignJustify|Qt::AlignVCenter</set>
-           </property>
-           <property name="wordWrap">
-            <bool>true</bool>
-           </property>
-          </widget>
-         </item>
-        </layout>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(255, 255, 255);
+border-radius: 5;</string>
+        </property>
+        <property name="text">
+         <string>Username</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_59">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>160</y>
+          <width>401</width>
+          <height>51</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(255, 255, 255);
+border-radius: 5;</string>
+        </property>
+        <property name="text">
+         <string>email</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_60">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>260</y>
+          <width>401</width>
+          <height>51</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(255, 255, 255);
+border-radius: 5;</string>
+        </property>
+        <property name="text">
+         <string>password</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_6">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>610</y>
+          <width>691</width>
+          <height>51</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton
+{
+	background-color: rgb(255, 81, 0);
+	color: rgb(255, 255, 255);
+	font: 600 12pt &quot;AutoText&quot;;
+	border-radius: 25;
+}
+QPushButton:hover
+{
+	background-color: rgb(255, 204, 120);
+	color: rgb(153, 153, 153);
+}
+QPushButton:pressed
+{
+	background-color: rgb(255, 191, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>LOG OUT</string>
+        </property>
        </widget>
       </widget>
      </widget>

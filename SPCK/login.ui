@@ -114,7 +114,7 @@ QPushButton:hover
        <string notr="true">border-radius: 25;</string>
       </property>
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="page">
        <widget class="QWidget" name="widget_4" native="true">
@@ -474,7 +474,7 @@ color: rgb(255, 255, 255)</string>
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>../../../../../../Downloads/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
+      <pixmap>../../diary app/food-ordering-app-logo-with-points-and-fork-shapes-in-the-center-free-vector-removebg-preview.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -496,7 +496,7 @@ color: rgb(255, 255, 255)</string>
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>../../../../diary app/fast-food-board-with-hamburger-french-fries-isolated-on-transparent-background-free-png.webp</pixmap>
+      <pixmap>../../diary app/fast-food-board-with-hamburger-french-fries-isolated-on-transparent-background-free-png.webp</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
